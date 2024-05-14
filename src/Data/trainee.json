@@ -1,0 +1,54 @@
+{
+    "trainees": [
+        {
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "destination": "Paris"
+        },
+        {
+            "name": "Alice Smith",
+            "email": "alice.smith@example.com",
+            "destination": "Tokyo"
+        },
+        {
+            "name": "Michael Johnson",
+            "email": "michael.johnson@example.com",
+            "destination": "London"
+        },
+        {
+            "name": "Emily Brown",
+            "email": "emily.brown@example.com",
+            "destination": "New York"
+        },
+        {
+            "name": "Daniel Wilson",
+            "email": "daniel.wilson@example.com",
+            "destination": "Sydney"
+        },
+        {
+            "name": "Sarah Taylor",
+            "email": "sarah.taylor@example.com",
+            "destination": "Dubai"
+        },
+        {
+            "name": "Matthew Martinez",
+            "email": "matthew.martinez@example.com",
+            "destination": "Rome"
+        },
+        {
+            "name": "Jennifer Anderson",
+            "email": "jennifer.anderson@example.com",
+            "destination": "Barcelona"
+        },
+        {
+            "name": "David Lee",
+            "email": "david.lee@example.com",
+            "destination": "Berlin"
+        },
+        {
+            "name": "Jessica Garcia",
+            "email": "jessica.garcia@example.com",
+            "destination": "Hong Kong"
+        }
+    ]
+}
